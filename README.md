@@ -1,5 +1,5 @@
 # Individual-pig-identification-using-3D-data
-This repository contains the code and dataset used in our project for identifying 8 individual pigs using 3D point cloud data and the PointNet architecture.
+This repository contains the code used in our project for identifying 8 individual pigs using 3D point cloud data and the PointNet architecture.
 
 The project is based on our paper:
 Paudel, Shiva, et al. "Deep learning algorithms to identify individual finishing pigs using 3D data." Biosystems Engineering 255 (2025): 104143.
