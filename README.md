@@ -6,6 +6,7 @@ Paudel, Shiva, et al. "Deep learning algorithms to identify individual finishing
 
 
 #Abstract
+
 The application of precision livestock farming technology is heavily reliant on the identification of individuals.
 However, due to the cost and time constraints, finishing pigs are rarely tagged or otherwise identified. Therefore,
 the objectives of this study were to determine the feasibility of using deep learning on 3D spatial data to identify
